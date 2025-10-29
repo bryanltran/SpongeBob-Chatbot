@@ -42,7 +42,7 @@ Paste this into the file:
     SOONERAI_BASE_URL=https://ai.sooners.us
     SOONERAI_MODEL=gemma3:4b
 
-Save the file.
+Replace `your_key_here` with your API key and save the file.
 
 ---
 
@@ -58,7 +58,7 @@ To stop the chat:
 
 ---
 
-## 💬 Example Conversation
+## Example Conversation
 
 ```
 🧽 SpongeBob Chat (type 'exit' or 'quit' to stop)
